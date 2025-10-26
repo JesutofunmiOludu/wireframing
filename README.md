@@ -65,5 +65,54 @@ A “Book Now” button in the wireframe may not be functional yet, but its pres
 
 ---
 
+## Types of Wireframes
+
+Wireframes can vary in **fidelity**, depending on the level of detail and the stage of the design process.  
+The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are **simple, sketch-like representations** of a design. They focus on the basic structure and layout of the interface rather than detailed design elements.  
+These are often created using paper sketches or simple digital tools (like Draw.io or Balsamiq).
+
+**Characteristics:**
+- Minimal details (no colors, fonts, or images)
+- Focused on layout and content hierarchy
+- Used in early brainstorming and concept validation
+
+**When to Use:**
+- During the **early stages** of design
+- When presenting ideas to stakeholders for quick feedback
+- For **rapid iteration** and exploring multiple layout options
+
+---
+
+### 2. High-Fidelity Wireframes
+High-fidelity wireframes are **detailed and realistic representations** of the final product. They include precise spacing, typography, and sometimes interactive elements.
+
+**Characteristics:**
+- Includes actual text, buttons, and interface details
+- Demonstrates visual hierarchy and user interactions
+- May use color, images, or real content
+
+**When to Use:**
+- In the **later stages** of design
+- When preparing for usability testing
+- For developer handoff and stakeholder approval
+
+---
+
+## Type of Wireframe Used Here
+
+The wireframes presented in this repository are **Low-Fidelity Wireframes**.  
+
+They are designed to focus on:
+- The **overall layout** of the booking and navigation structure  
+- **User flow** between pages (such as Home, Booking, and Checkout)  
+- **Early validation** of ideas before adding detailed UI elements  
+
+These wireframes serve as the foundation for further design refinement and user experience improvements before moving into high-fidelity mockups or prototypes.
+
+---
+
 ## Summary
 Wireframing bridges the gap between concept and creation. It ensures that design decisions are user-centered, functional, and technically feasible—laying the groundwork for successful product development.
