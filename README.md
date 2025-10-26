@@ -103,7 +103,7 @@ High-fidelity wireframes are **detailed and realistic representations** of the f
 
 ## Type of Wireframe Used Here
 
-The wireframes presented in this repository are **Low-Fidelity Wireframes**.  
+The wireframes presented in this repository are **High-Fidelity Wireframes**.  
 
 They are designed to focus on:
 - The **overall layout** of the booking and navigation structure  
